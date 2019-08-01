@@ -1,0 +1,8 @@
+flask
+requests
+numpy
+tensorflow
+keras
+scipy
+opencv-python
+uuid
