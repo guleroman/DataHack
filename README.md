@@ -25,8 +25,13 @@
 ### 1) "Гугл вам в помощь..", или "грамотный search" для DS всё
 ### 2) Keep, Calm and Аугментация !
 
-![jpg](output_1_0.png)
-    
+Пример:
+
+![png](aug/загруженное.png)
+![png](aug/загруженное4.png)
+
+### 3) Немного магии и на выходе чуть более 900 изображений для 3х классов (Сорняки, Засуха, Отсутствие проблем) Profit!
+Исходный код:    
 ```python
 #importing some useful packages
 import matplotlib.pyplot as plt
